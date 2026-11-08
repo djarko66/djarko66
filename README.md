@@ -17,9 +17,9 @@
 </p>
 
 ### 🚩 TryHackMe
-<a href="https://tryhackme.com/p/djarkobro">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/djarkobro.png" alt="TryHackMe badge" />
-</a>
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-djarkobro-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/djarkobro)
+
+Rooms completed: **Wireshark** · **Terminal** · **Network Fundamentals**
 
 ### 📂 Projects
 | Project | Description | Stack |
