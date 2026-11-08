@@ -6,7 +6,7 @@
 ---
 
 ### 🛡️ About me
-- 🎓 2nd-year Computer Science student in Wrocław, Poland
+- 🎓 3rd-year Computer Science student at ATINS, Wrocław, Poland
 - 🔐 Focused on cybersecurity: penetration testing now, Blue Team / SOC as the goal
 - 🧪 Practicing on TryHackMe and documenting everything in my Obsidian knowledge base
 - 🌍 Ukrainian · English · Russian · learning Spanish
